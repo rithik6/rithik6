@@ -157,7 +157,7 @@ validation, bounded retries and human approval.
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,js,fastapi,nodejs,express,postgres,mysql,redis&theme=dark" alt="Backend skills"/>
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,nodejs,postgres,mysql,redis&theme=dark" alt="Backend skills"/>
 
 ### Machine Learning & Data
 
@@ -256,34 +256,6 @@ This was an exploratory machine learning
 project, not a clinical diagnostic tool.
 
 </details>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=rithik6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithik6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Most used languages"
-/>
-
-<br/>
-
-<img
-  width="65%"
-  src="https://streak-stats.demolab.com?user=rithik6&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-</div>
 
 ---
 
