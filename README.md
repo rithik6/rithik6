@@ -258,6 +258,45 @@ project, not a clinical diagnostic tool.
 </details>
 
 ---
+### 🛠️ Smart Maintenance Operations & SLA Management
+
+**Power BI and PostgreSQL portfolio case study for maintenance operations**
+
+- Synthetic maintenance dataset with 540 tickets
+- PostgreSQL database for equipment, technicians, and maintenance tickets
+- Power BI report for maintenance operations and SLA analysis
+- KPI tracking for total tickets, open tickets, overdue tickets, SLA compliance, and MTTR
+- Business recommendations to reduce delays and improve maintenance performance
+
+**Stack:** Power BI Desktop, PostgreSQL, SQL, Power Query, DAX, Python
+
+[![Source Code](https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/rithik6/smart-maintenance-sla-management)
+
+<details>
+<summary><b>View dashboard and KPI details</b></summary>
+
+<br/>
+
+This is a simulated business analytics case study. It uses synthetic data only and is not based on real company operations.
+
+The project analyses 540 maintenance tickets across 24 equipment assets and 12 technicians.
+
+Key Power BI dashboard pages:
+
+1. Maintenance Operations Overview  
+2. Equipment Performance & SLA Analysis  
+
+Key KPIs:
+
+- Total Tickets: 540  
+- Open Tickets: 22  
+- Overdue Tickets: 13  
+- SLA Compliance: 61.78%  
+- Mean Time to Repair: 16.95 hours  
+
+</details>
+
+---
 
 ## 🧠 Engineering Principles
 
